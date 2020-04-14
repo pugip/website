@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=princetonpy
+POSTGRES_USER=osDaEjcctITSnrnyVtYKZsMIAwtFthLL
+POSTGRES_PASSWORD=pW6sdRs8dNSqi0Zsgn6YYIMxiGqfVu2uIlSNC9Xs72OXJ5S4P8mt7jCJOspTcwDZ
